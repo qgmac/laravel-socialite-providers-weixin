@@ -1,0 +1,20 @@
+{
+    "name": "qgmac/laravel-socialite-providers-weixin",
+    "description": "Weixin minigame OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "qgmac",
+        "email": "qgmac@qq.com"
+    }, {
+        "name": "xiami",
+        "email": "jhdxr@php.net"
+    }],
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Weixin\\": ""
+        }
+    },
+    "require": {
+        "socialiteproviders/manager": "^3.4"
+    }
+}
