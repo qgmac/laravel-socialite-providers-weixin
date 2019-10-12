@@ -1,6 +1,6 @@
 {
     "name": "qgmac/laravel-socialite-providers-weixin",
-    "description": "Weixin minigame OAuth2 Provider for Laravel Socialite",
+    "description": "微信社会化登录 小程序版",
     "license": "MIT",
     "authors": [{
         "name": "qgmac",
